@@ -1,0 +1,69 @@
+div.elem{
+    border: 5px solid rgb(136, 118, 94);
+    border-style: dashed;
+    
+}
+
+div.junior {
+    border: 5px solid rgb(136, 118, 94);
+    border-style: dashed;
+}
+
+div.shs{
+     border: 5px solid rgb(136, 118, 94);
+    border-style: dashed;
+}
+
+div.EMC{
+     border: 5px solid rgb(136, 118, 94);
+    border-style: dashed;
+}
+
+div.end {
+    text-shadow: 7px 7px 8px powderblue;
+}
+div.p1 {
+    text-shadow: 5px 5px 5px powderblue
+}
+
+div.p2 {
+    text-align: justify;
+}
+
+
+div.p3 {
+    text-shadow: 5px 5px 5px powderblue;
+    
+}
+
+div.codd {
+    text-align: justify;
+}
+
+div.ml {
+    text-align: justify;
+}
+
+div.roblox {
+    text-align: justify;
+}
+div.photo{
+    text-align: justify;
+}
+
+div.hobbyyy {
+    text-align: justify;
+}
+.container {
+      display: flex;
+      gap: 20px;
+    }
+.container img {
+      width: 300px;
+      height: auto;
+      cursor: pointer; /* Changes cursor to pointer on hover */
+    }
+.contactt{
+    text-align: right;
+    font-size: 20px;
+}
